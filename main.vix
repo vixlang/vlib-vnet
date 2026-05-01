@@ -1,4 +1,4 @@
-fn main() -> i32 {
+fn show_status() -> i32 {
     print("开发中~")
     return 0
 }
