@@ -1,0 +1,6 @@
+[project]
+name = "vnet"
+version = "0.1.0"
+description = "vix的网络模块"
+readme = "README.md"
+deps = []
