@@ -1,4 +1,4 @@
-fn show_status() -> i32 {
+fn Jingdutiao() -> i64 {
     print("开发中~")
     return 0
 }
